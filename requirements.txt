@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+PyPDF2
+pymupdf
+evaluate
+numpy
+nltk
+sentencepiece
+accelerate
+torch
+torchvision
+rouge_score
+utils
+python-multipart
+uvicorn[standard]
